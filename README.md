@@ -40,7 +40,7 @@ Create a file named config.json in the same directory as silvershell.py.
 Add your API key to the file in the following format:
 
 {
-  "gemini_api_key": "AIzaSyD_RYO6kEy4KHehZKAOV2D1OvHORdUPMBo" 
+  "gemini_api_key": "your_api_here" 
 }
 
 
